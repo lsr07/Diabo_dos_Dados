@@ -1,4 +1,4 @@
-print("Jornada do Diabo")
+print("Jornada do Diabo 2")
 
 #Variaveis
 
